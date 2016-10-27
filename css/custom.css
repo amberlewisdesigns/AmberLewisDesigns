@@ -1,0 +1,336 @@
+.nav-wrap{
+	background: white;
+	height:100px;
+	text-align: center;
+
+}
+
+.hero {
+	height: 500px;
+}
+
+.logo img{
+	width: 69px;
+	height: auto;
+	padding-top: 30px;
+
+
+}
+.roles li{
+	
+	padding-bottom:20px;
+	
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 900;
+	font-size: 13pt;
+	display:block;
+	text-align: center;
+	color: #4c4c4c;
+
+}
+.ala-cart-roles {
+	height: 700px;
+} 
+
+.menu-items{
+text-align: center;
+}
+
+.menu-items li{
+	float: left;
+	padding: 20px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 900;
+	font-size: 13pt;
+	
+}
+.menu-items li a{
+	color: #4c4c4c;
+	text-align: center;
+}
+
+.left-image img{
+
+	width: 280px;
+	align: inline-block;
+
+}
+
+.avatar img{
+	height: 159px;
+	width: 280px;
+	align: inline-block;
+	padding-right:34px;
+}
+
+.wand img{
+	height: 130px;
+	width: 130px;
+	align: inline-block;
+
+}
+
+
+.about-me-row{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.about-me-row h1 {
+	padding-bottom: 25px;
+	
+}
+.about-me-row p {
+	padding-top: 15px;
+	padding-left: 15px;
+	text-align: left;
+	color: #8e8e8e;
+}
+
+.about-me-wrap {
+padding: 20px;
+
+}
+
+
+
+.ux-des-wrap{
+	background: #414142;
+	padding: 20px;
+}
+
+
+.light-text h1 {
+	color: white;
+}
+.ux-des p{
+	color: #8e8e8e;
+	padding-bottom: 50px;
+	text-align: right;
+	
+	padding-right: 15px;
+}
+
+.ux-des h1{
+	color: white;
+	padding-bottom: 30px;
+}
+
+
+
+
+
+.bb-wrap{
+	width: 100%;
+	background-image: url('../images/block-box-mockup2.jpg');
+	background-size: cover;
+	background-position: bottom center;
+	clear: left;
+	height: 300px;
+
+}
+
+.ala-wrap{
+		background-image: url('../images/alacart_mockup1.jpg');
+	background-size: cover;
+	background-position: center;
+	clear: left;
+	height: 300px;
+}
+
+.am-wrap{
+	width: 100%;
+	background-image: url('../images/bundlebee-mockup2.jpg');
+	background-size: cover;
+	background-position: center;
+	clear: left;
+	height: 300px;
+}
+
+.other-wrap {
+	text-align: center;
+	padding: 30px;
+	background-color: #f1f3f1;
+}
+
+.ala-wrap-info2{
+	
+	background-color: #f2f2f2;
+
+
+}
+.ala-wrap-info{
+	
+	background-color: #414142;
+
+
+}
+.iso-wrap{
+	width: 100%;
+	background-image: url('../images/alacart-isometric.jpg');
+	background-size: cover;
+	clear: left;
+}
+.alacart-wrap{
+	width: 100%;
+	background-image: url('../images/alacart_mockup1.jpg');
+	background-size: cover;
+	background-position: bottom center;
+	clear: left;
+	background-color: red;
+}
+
+
+.third_title h1{
+	padding-top: 70px;
+}
+.case-studies {
+	height: 400px;
+	padding-top: 20px;
+	padding-right: 0px;
+	text-align: center;
+	vertical-align: center;
+	font-size: 47pt;
+	color: white;
+}	
+
+.bundlebee {
+	
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.alaCart{
+	
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.blocbox {
+	
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.footer-wrap {
+	background: #2c2c2c;
+	padding-top: 10px;
+}
+
+.footer-items li a img{
+	float: right;
+	padding: 10px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	height: 65px;
+	width: 65px;
+	align: inline-block;
+}
+
+.third-title h1 {
+	color: white;
+	padding-top: 60px;
+}
+
+.third-title p {
+	color: white;
+}
+
+.footer-logo img{
+	width: 60px;
+	height: 60px;
+}
+h1 {
+	font-family: 'Josefin Slab', serif;
+	color: #4c4c4c;
+	font-weight: 600;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16pt;
+	color: #4c4c4c;
+}
+
+
+
+ol, ul {
+	list-style: none;
+}
+
+.btn a{
+	background: white;
+	border: 1px black;
+	padding: 8px 18px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12pt;
+	color: #50bea3;
+	text-align: center;
+}
+
+.btn-blue {
+	background: blue;
+	padding: 8px 18px;
+}
+.case-specs {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  
+    z-index: 1;
+    transition: all 400ms ease-in-out;
+    background-color: rgba(52, 73, 94, 0.8);
+  
+}
+@media (max-width: 767px){
+	.about-me-row p {
+		text-align: center;
+		padding: 30 20 30 20px;
+	}	
+	.hero {
+		height: 380px;
+		}
+	.third {
+		text-align: center;
+	}
+	.half {
+		text-align: center;
+	}
+	}
+	@media (min-width: 766px){
+		.third {
+			width: 33%;
+			display: inline-block;
+			margin: 0;
+    		vertical-align: top;
+    		background-position: center;
+    		
+   
+		}
+}
+@media (min-width: 766px){
+		.half{
+			width: 49.8%;
+			display: inline-block;
+			margin: 0;
+    		vertical-align: top;
+    		background-position: center;
+    		}
+   
+		}
+
+@media (min-width: 466px){
+		.half{
+					}
+
+
+
+
+
